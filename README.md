@@ -1,7 +1,7 @@
 # Connect4
 
 
----~~Guia de execução~~---
+---Guia de execução---
 
 Versões de compiladores/OS/Linguagem:
 Javac 1.8.0_292
